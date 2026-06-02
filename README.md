@@ -13,16 +13,7 @@ Sou estudante de **Sistemas de Informação** e Técnico em Informática. Atualm
 
 ---
 
-### 📊 Minhas Estatísticas
-
-Aqui você pode ver um resumo das minhas atividades no GitHub:
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Kerllonmn&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Kerllonmn&layout=compact&theme=dark)
-
----
-
 ### 📫 Como me encontrar:
 
-[!["LinkedIn"](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN_AQUI)
-[!["E-mail"](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@exemplo.com)
+
+[!["E-mail"](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kerllonoliveira999@gmail.com)
