@@ -24,7 +24,7 @@ Aqui estão as tecnologias com as quais tenho trabalhado e estudado ativamente:
 
 ---
 
-### 📫 Vamos nos conectar? / Let's Connect:
+### 📫 Vamos nos conectar?
 
 <div align="center">
   
