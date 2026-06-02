@@ -2,7 +2,6 @@
 
 # Olá, eu sou o Kerllon! 👋
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerllonmn&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" align="right" width="300" />
 
 ### 🎓 Estudante de Sistemas de Informação (UNINTA) | Técnico em Informática 👨‍💻
 Atualmente no 4º ano da faculdade, aprofundando meus conhecimentos em desenvolvimento de software com **Python** e construindo uma base sólida em **Segurança Cibernética (Cybersecurity)**.
